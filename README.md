@@ -1,3 +1,3 @@
 # cmsimfly
 CMSimfly is a simple CMS in Flask
-https://mdewcm2019.github.io/wcm2019-task-g2content/index.html
+https://mdewcm2019.github.io/wcm2019-task-g3/content/index.html
